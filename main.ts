@@ -1,3 +1,6 @@
+info.onCountdownEnd(function () {
+	
+})
 let mySprite = sprites.create(img`
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
