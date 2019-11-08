@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" x="0" y="0"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="A?*|%wbf991N+vAr:%7p" x="0" y="0"><statement name="HANDLER"><block type="hudsetScore" id="[w}9`k@~2K?n3QbYgV0?"><value name="value"><shadow type="math_number" id="e*QCtk/?YbM^+os2cq?["><field name="NUM">0</field></shadow></value></block></statement></block></xml>
